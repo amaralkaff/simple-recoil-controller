@@ -45,9 +45,3 @@ Simple Arduino-based recoil control system for gaming.
 2. Hold Right Mouse Button
 3. Press and hold Left Mouse Button - recoil control starts
 4. Release Left Mouse Button - recoil control stops
-
-## Notes
-
-- Arduino must show as "Arduino Micro" or "Arduino Leonardo" in Device Manager
-- Don't have Arduino Serial Monitor open while using
-- Close any other programs using the Arduino's COM port

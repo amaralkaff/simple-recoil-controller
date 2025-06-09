@@ -6,7 +6,7 @@ Simple Arduino-based recoil control system for gaming.
 
 - Automatically counteracts weapon recoil in games
 - Uses Arduino Micro to simulate mouse movements
-- Activates with Scroll Lock + Right Mouse + Left Mouse buttons
+- Activates with Insert + Right Mouse + Left Mouse buttons
 
 ## Hardware Required
 
